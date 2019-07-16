@@ -27,7 +27,7 @@
 export default {
     props:{
         header: String,
-        projects: []
+        projects: Array
     }
 }
 </script>

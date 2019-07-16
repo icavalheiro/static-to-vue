@@ -9,12 +9,6 @@
 @import "../scss/variables.scss";
 @import "../scss/mixins.scss";
 @import "../scss/global.scss";
-@import "../scss/masthead.scss";
-@import "../scss/sidebar.scss";
-@import "../scss/services.scss";
-@import "../scss/callout.scss";
-@import "../scss/portfolio.scss";
-@import "../scss/footer.scss";
 @import "../../node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss";
 </style>
 
